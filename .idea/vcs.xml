@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AddressChangeAmazon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CartAmazon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Login_Amazon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OrderAndReturn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SearchAndFilterAmazon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WishLIst_Amazon" vcs="Git" />
+  </component>
+</project>

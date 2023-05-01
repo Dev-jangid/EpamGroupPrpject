@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df663ea7-591d-4e06-8780-4def7392059c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AddressChangeAmazon/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AddressChangeAmazon/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AddressChangeAmazon/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AddressChangeAmazon/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AddressChangeAmazon/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AddressChangeAmazon/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AddressChangeAmazon/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AddressChangeAmazon/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AddressChangeAmazon/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CartAmazon/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CartAmazon/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CartAmazon/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CartAmazon/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CartAmazon/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CartAmazon/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CartAmazon/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CartAmazon/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CartAmazon/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_Amazon/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_Amazon/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_Amazon/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_Amazon/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_Amazon/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_Amazon/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_Amazon/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_Amazon/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_Amazon/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login_Amazon/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrderAndReturn/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrderAndReturn/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrderAndReturn/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrderAndReturn/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrderAndReturn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrderAndReturn/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrderAndReturn/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrderAndReturn/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrderAndReturn/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchAndFilterAmazon/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchAndFilterAmazon/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchAndFilterAmazon/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchAndFilterAmazon/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchAndFilterAmazon/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchAndFilterAmazon/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchAndFilterAmazon/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchAndFilterAmazon/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchAndFilterAmazon/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WishLIst_Amazon/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WishLIst_Amazon/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WishLIst_Amazon/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WishLIst_Amazon/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WishLIst_Amazon/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WishLIst_Amazon/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WishLIst_Amazon/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WishLIst_Amazon/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WishLIst_Amazon/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2PCTarfG1hH4tcwjod5aqGq2wRB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Project Intelli J/Epam_Final_Group_Project"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df663ea7-591d-4e06-8780-4def7392059c" name="Changes" comment="" />
+      <created>1682960129678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682960129678</updated>
+    </task>
+    <servers />
+  </component>
+</project>
